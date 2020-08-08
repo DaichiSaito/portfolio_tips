@@ -9,3 +9,7 @@
 [新規Webサービスを独りで開発・運用する際に立ちはだかった壁とそれを乗り越えた方法まとめ【個人開発】 \- Qiita](https://qiita.com/terubooon/items/08c145aac0dd10ea8cbc)
 
 [開設後３週間で収益１０万円を得た個人開発サイトでやったことの全部を公開する \- Qiita](https://qiita.com/jabba/items/1a49e860a09a613b09d4)
+
+[スキル0、知識0、人脈0から3ヶ月で開発したサービスを運営2年半で企業に売却しました｜かしい｜note](https://note.com/rubys8arks/n/n91f8cb3fe9fb)
+
+[ロゴメーカー＆ロゴクリエーター \- 無料のオンラインロゴジェネレーター](https://hatchful.shopify.com/ja/)
