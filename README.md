@@ -14,5 +14,6 @@
 
 [プログラミング未経験のアラフォーがプログラマーとして転職するまでの７５８時間\(\+α\)の全勉強記録を公開します \- Patのブログ](https://shimasei.hatenablog.com/entry/2020/08/23/191030)
 
+[ポートフォリオや個人開発で使えそうなアイデア \- Qiita](https://qiita.com/MasatoraAtarashi/items/eec4642fe1e6ce79304d)
 
 [ロゴメーカー＆ロゴクリエーター \- 無料のオンラインロゴジェネレーター](https://hatchful.shopify.com/ja/)
