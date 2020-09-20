@@ -17,3 +17,5 @@
 [ポートフォリオや個人開発で使えそうなアイデア \- Qiita](https://qiita.com/MasatoraAtarashi/items/eec4642fe1e6ce79304d)
 
 [ロゴメーカー＆ロゴクリエーター \- 無料のオンラインロゴジェネレーター](https://hatchful.shopify.com/ja/)
+
+[投げ銭サービスに関する法律問題を2つの回避スキームとともに解説 \| TOPCOURT LAW FIRM](https://topcourt-law.com/new_business/throwing-money-service)
