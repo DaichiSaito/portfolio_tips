@@ -21,3 +21,6 @@
 [ロゴメーカー＆ロゴクリエーター \- 無料のオンラインロゴジェネレーター](https://hatchful.shopify.com/ja/)
 
 [投げ銭サービスに関する法律問題を2つの回避スキームとともに解説 \| TOPCOURT LAW FIRM](https://topcourt-law.com/new_business/throwing-money-service)
+
+# 脱線
+[駆け出しエンジニアの採用選考 \| Zenn](https://zenn.dev/takahito/articles/eb4a4b225cf0f185215f)
