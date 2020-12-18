@@ -34,6 +34,8 @@
 
 [個人で作ったWebサービスを最初の100人に使ってもらうまで｜katonobo｜note](https://note.com/katonobo/n/n6faf97532ef2)
 
+[【個人開発・ポートフォリオに】簡単にいい感じのデザインにできるサービスまとめ \- Qiita](https://qiita.com/aiandrox/items/4196c8f5b564d29fdce7)
+
 [ロゴメーカー＆ロゴクリエーター \- 無料のオンラインロゴジェネレーター](https://hatchful.shopify.com/ja/)
 
 [投げ銭サービスに関する法律問題を2つの回避スキームとともに解説 \| TOPCOURT LAW FIRM](https://topcourt-law.com/new_business/throwing-money-service)
