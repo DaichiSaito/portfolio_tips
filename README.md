@@ -14,6 +14,8 @@
 # 就活関連
 [5000番煎じの、実務未経験からのエンジニア転職記事｜熊木｜note](https://note.com/kumackey/n/n408a05345e81)
 
+[現役採用担当エンジニアが2020年の未経験エンジニア転職市場を振り返る｜よーすけ　Web系エンジニア && 初学者メンター｜note](https://note.com/yosaprog/n/n9c9c8ca35225)
+
 # ポートフォリオ制作のTips
 
 [エンジニアが個人開発したWebサービス・アプリ100個紹介します｜タケシ \#駆け出しエンジニアと繋がりたい｜note](https://note.com/haken_se_30manen/n/n4f379cc91f11)
