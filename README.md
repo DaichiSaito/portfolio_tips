@@ -18,6 +18,8 @@
 
 # ポートフォリオ制作のTips
 
+[MVP の作り方 🔨 とにかく雑に作る「手作業型 MVP」のススメ \- Speaker Deck](https://speakerdeck.com/tumada/mvp-falsezuo-rifang-tonikakuza-nizuo-ru-shou-zuo-ye-xing-mvp-falsesusume)
+
 [実務経験を超えるオリジナルポートフォリオの作り方 \| rake enjoy](https://tech.blog.hisaju.org/2021/02/07/portfoilo/)
 
 [エンジニアが個人開発したWebサービス・アプリ100個紹介します｜タケシ \#駆け出しエンジニアと繋がりたい｜note](https://note.com/haken_se_30manen/n/n4f379cc91f11)
