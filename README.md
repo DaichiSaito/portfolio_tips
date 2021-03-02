@@ -9,6 +9,7 @@
 - オリジナリティのあるアプリ
 - 自分の原体験から着想したアプリ
 - ユーザーがいなくても成り立つアプリ（ユーザー一人でワークするアプリ）
+- [【採用責任者が教える】エンジニア転職に成功するポートフォリオの作り方 \- YouTube](https://www.youtube.com/watch?v=yECZUUhljjg&feature=youtu.be)
 - MVPを意識したアプリ([MVP（Minimum Viable Product）とは \| リーン・スタートアップの基本とMVPの実践 \- その他ビジネス \| ボクシルマガジン](https://boxil.jp/mag/a3551/))
 
 # 就活関連
