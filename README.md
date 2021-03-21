@@ -23,6 +23,8 @@
 
 [実務経験を超えるオリジナルポートフォリオの作り方 \| rake enjoy](https://tech.blog.hisaju.org/2021/02/07/portfoilo/)
 
+[エンジニア向け デザイン基礎（社内勉強会の資料） \- Qiita](https://qiita.com/xrxoxcxox/items/01ae9d1515fdf794e1f5)
+
 [エンジニアが個人開発したWebサービス・アプリ100個紹介します｜タケシ \#駆け出しエンジニアと繋がりたい｜note](https://note.com/haken_se_30manen/n/n4f379cc91f11)
 
 [Webサービス個人開発するなら読みたい情報源13 \- Qiita](https://qiita.com/curryperformer-kato/items/a7dc9a41200b6c9c1912)
